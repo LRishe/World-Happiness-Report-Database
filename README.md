@@ -1,0 +1,1 @@
+MYSQL Database using a dataset from Kaggle.com. Files include an outline of tables and relationships, entity relationship diagram, data dictionary, scripts to create and modify tables, as well as all relevant data.
