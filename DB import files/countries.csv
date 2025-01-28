@@ -1,0 +1,199 @@
+COUNTRY_CODE,COUNTRY_DESC,REGION_CODE
+FINL,Finland,WEU
+DENM,Denmark,WEU
+SWIT,Switzerland,WEU
+ICEL,Iceland,WEU
+NORW,Norway,WEU
+NETH,Netherlands,WEU
+SWED,Sweden,WEU
+NEWZ,New Zealand,NAAZ
+AUST,Austria,WEU
+LUXE,Luxembourg,WEU
+CANA,Canada,NAAZ
+AUS,Australia,NAAZ
+UK,United Kingdom,WEU
+ISRA,Israel,MENA
+COST,Costa Rica,LAC
+IREL,Ireland,WEU
+GERM,Germany,WEU
+USA,United States,NAAZ
+CZER,Czech Republic,CEEU
+BELG,Belgium,WEU
+UAE,United Arab Emirates,MENA
+MALT,Malta,WEU
+FRAN,France,WEU
+MEXI,Mexico,LAC
+TAIW,Taiwan Province of China,EA
+URUG,Uruguay,LAC
+SAUD,Saudi Arabia,MENA
+SPAI,Spain,WEU
+GUAT,Guatemala,LAC
+ITAL,Italy,WEU
+SING,Singapore,SEA
+BRAZ,Brazil,LAC
+SLON,Slovenia,CEEU
+ELS,El Salvador,LAC
+KOSO,Kosovo,CEEU
+PANA,Panama,LAC
+SLOV,Slovakia,CEEU
+UZBE,Uzbekistan,COIS
+CHIL,Chile,LAC
+BAHR,Bahrain,MENA
+LITH,Lithuania,CEEU
+TRIN,Trinidad and Tobago,LAC
+POLA,Poland,CEEU
+COLO,Colombia,LAC
+CYPR,Cyprus,WEU
+NICA,Nicaragua,LAC
+ROMA,Romania,CEEU
+KUWA,Kuwait,MENA
+MARI,Mauritius,SSA
+KAZA,Kazakhstan,COIS
+ESTO,Estonia,CEEU
+PHIL,Philippines,SEA
+HUNG,Hungary,CEEU
+THAI,Thailand,SEA
+ARGE,Argentina,LAC
+HOND,Honduras,LAC
+LATV,Latvia,CEEU
+ECUA,Ecuador,LAC
+PORT,Portugal,WEU
+JAMA,Jamaica,LAC
+SKOR,South Korea,EA
+JAPA,Japan,EA
+PERU,Peru,LAC
+SERB,Serbia,CEEU
+BOLI,Bolivia,LAC
+PAKI,Pakistan,SA
+PARA,Paraguay,LAC
+DOMI,Dominican Republic,LAC
+BOSN,Bosnia and Herzegovina,CEEU
+MOLD,Moldova,COIS
+TAJI,Tajikistan,COIS
+MONT,Montenegro,CEEU
+RUSS,Russia,COIS
+KYRG,Kyrgyzstan,COIS
+BELA,Belarus,COIS
+NOTC,North Cyprus,WEU
+GREE,Greece,WEU
+HONG,Hong Kong S.A.R. of China,EA
+CROA,Croatia,CEEU
+LIBY,Libya,MENA
+MONG,Mongolia,EA
+MALY,Malaysia,SEA
+VIET,Vietnam,SEA
+INDO,Indonesia,SEA
+IVOR,Ivory Coast,SSA
+BENI,Benin,SSA
+MALD,Maldives,SA
+CONG,Congo (Brazzaville),SSA
+AZER,Azerbaijan,COIS
+MACE,Macedonia,CEEU
+GHAN,Ghana,SSA
+NEPA,Nepal,SA
+TURK,Turkey,MENA
+CHIN,China,EA
+TURM,Turkmenistan,COIS
+BULG,Bulgaria,CEEU
+MORO,Morocco,MENA
+CAME,Cameroon,SSA
+VENE,Venezuela,LAC
+ALGE,Algeria,MENA
+SENE,Senegal,SSA
+GUIN,Guinea,SSA
+NIGE,Niger,SSA
+LAOS,Laos,SEA
+ALBA,Albania,CEEU
+CAMB,Cambodia,SEA
+BANG,Bangladesh,SA
+GABO,Gabon,SSA
+SOAF,South Africa,SSA
+IRAQ,Iraq,MENA
+LEBA,Lebanon,MENA
+BURK,Burkina Faso,SSA
+GAMB,Gambia,SSA
+MALI,Mali,SSA
+NIGA,Nigeria,SSA
+ARME,Armenia,COIS
+GEOR,Georgia,COIS
+IRAN,Iran,MENA
+JORD,Jordan,MENA
+MOZA,Mozambique,SSA
+KENY,Kenya,SSA
+NAMI,Namibia,SSA
+UKRA,Ukraine,COIS
+LIBE,Liberia,SSA
+PALE,Palestinian Territories,MENA
+UGAN,Uganda,SSA
+CHAD,Chad,SSA
+TUNI,Tunisia,MENA
+MAUR,Mauritania,SSA
+SRIL,Sri Lanka,SA
+CONG,Congo (Kinshasa),SSA
+SWAZ,Swaziland,SSA
+MYAN,Myanmar,SEA
+COMO,Comoros,SSA
+TOGO,Togo,SSA
+ETHI,Ethiopia,SSA
+MADA,Madagascar,SSA
+EGYP,Egypt,MENA
+SIER,Sierra Leone,SSA
+BURU,Burundi,SSA
+ZAMB,Zambia,SSA
+HAIT,Haiti,LAC
+LESO,Lesotho,SSA
+IND,India,SA
+MALA,Malawi,SSA
+YEME,Yemen,MENA
+BOTS,Botswana,SSA
+TANZ,Tanzania,SSA
+CENT,Central African Republic,SSA
+RWAN,Rwanda,SSA
+ZIMB,Zimbabwe,SSA
+SSUD,South Sudan,SSA
+AFGH,Afghanistan,SA
+PUER,Puerto Rico,LAC
+TAIW,Taiwan,EA
+QATA,Qatar,MENA
+SURI,Suriname,LAC
+BELI,Belize,LAC
+HONG,Hong Kong,EA
+SOMA,Somalia,SSA
+BHUT,Bhutan,SA
+SOML,Somaliland Region,SSA
+SUDA,Sudan,SSA
+ANGO,Angola,SSA
+SYRI,Syria,MENA
+NOTM,North Macedonia,CEEU
+OMAN,Oman,MENA
+SOML,Somaliland region,SSA
+DJIB,Djibouti,SSA
+AZER,Azerbaijan*,COIS
+BELA,Belarus*,COIS
+BOTS,Botswana*,SSA
+CHAD,Chad*,SSA
+COMO,Comoros*,SSA
+CONG,Congo,SSA
+CZEC,Czechia,null
+ESWA,"Eswatini, Kingdom of*",null
+GAMB,Gambia*,SSA
+GUAT,Guatemala*,LAC
+HONG,"Hong Kong S.A.R., China",EA
+KUWA,Kuwait*,MENA
+LESO,Lesotho*,SSA
+LIBE,Liberia*,SSA
+LIBY,Libya*,MENA
+LUXE,Luxembourg*,WEU
+MADA,Madagascar*,SSA
+MAUR,Mauritania*,SSA
+NIGE,Niger*,SSA
+NOTC,North Cyprus*,WEU
+NOTC,Northern Cyprus,WEU
+PALE,Palestinian Territories*,MENA
+RWAN,Rwanda*,SSA
+PALE,State of Palestine,MENA
+TRIN,Trinidad & Tobago,LAC
+TURK,Turkiye,MENA
+TURM,Turkmenistan*,COIS
+YEME,Yemen*,MENA
+XX,xx,null
